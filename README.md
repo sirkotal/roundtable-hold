@@ -1,8 +1,10 @@
 # Roundtable Hold
 
-A website for Elden Ring info.
+A personal website for Elden Ring info. Also being used as Ruby (on Rails) practice.
 
-# README
+# Info
+
+To launch the Puma web server, run ```bin/rails server``` and access *http://localhost:3000*.
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
